@@ -1,6 +1,6 @@
 package net.systemshub;
 
-public Class User {
+public class User {
 public String name,password,email;
 
 public User(){}
