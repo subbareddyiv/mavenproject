@@ -14,7 +14,7 @@ public void setpassword(String password){
 public void setemail(String email){
         this.email=email;
 
-}
+}}
 
 public String getname(){
         return name;
